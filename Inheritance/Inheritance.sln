@@ -5,6 +5,8 @@ VisualStudioVersion = 17.3.32825.248
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "square", "square\square.vcxproj", "{BF20DDB8-4088-4B84-AA30-EC4EC96384E4}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "multiple_inheritance", "multiple_inheritance\multiple_inheritance.vcxproj", "{896D3A1F-3F9D-4FEC-8805-CFDF7CBC221E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{BF20DDB8-4088-4B84-AA30-EC4EC96384E4}.Release|x64.Build.0 = Release|x64
 		{BF20DDB8-4088-4B84-AA30-EC4EC96384E4}.Release|x86.ActiveCfg = Release|Win32
 		{BF20DDB8-4088-4B84-AA30-EC4EC96384E4}.Release|x86.Build.0 = Release|Win32
+		{896D3A1F-3F9D-4FEC-8805-CFDF7CBC221E}.Debug|x64.ActiveCfg = Debug|x64
+		{896D3A1F-3F9D-4FEC-8805-CFDF7CBC221E}.Debug|x64.Build.0 = Debug|x64
+		{896D3A1F-3F9D-4FEC-8805-CFDF7CBC221E}.Debug|x86.ActiveCfg = Debug|Win32
+		{896D3A1F-3F9D-4FEC-8805-CFDF7CBC221E}.Debug|x86.Build.0 = Debug|Win32
+		{896D3A1F-3F9D-4FEC-8805-CFDF7CBC221E}.Release|x64.ActiveCfg = Release|x64
+		{896D3A1F-3F9D-4FEC-8805-CFDF7CBC221E}.Release|x64.Build.0 = Release|x64
+		{896D3A1F-3F9D-4FEC-8805-CFDF7CBC221E}.Release|x86.ActiveCfg = Release|Win32
+		{896D3A1F-3F9D-4FEC-8805-CFDF7CBC221E}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
